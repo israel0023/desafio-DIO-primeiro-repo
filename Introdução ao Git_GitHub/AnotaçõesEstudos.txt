@@ -1,0 +1,9 @@
+Anotações
+
+Principais Comandos Git
+
+Git init: criar repositorio local
+Git clone + link: clona um repositorio do Github para maquina local
+Git add: adiciona versão do seu arquivo à nuvem (staged)
+Git commit + comentário: inclui arquivo ao commit
+Git push: envia/publica arquivo ao commit no Git
